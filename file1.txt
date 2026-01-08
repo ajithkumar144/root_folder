@@ -1,1 +1,1 @@
-this is file1.txt in root_folder
+This is file1.txt in root_folder
